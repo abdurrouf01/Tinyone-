@@ -1,0 +1,36 @@
+Font-
+PTSans Regular
+PTSans Bold
+FontAwesome
+HelveticaNeue Bold
+
+Color --------------
+black #010101 
+#313841
+Ash #898989
+Yellow fcdb00
+
+ font-family: "PT Sans", sans-serif;
+
+ _______________________________________
+ ========================================
+ xxl 1440
+ xl 1200
+ lg 1024
+
+ md 768
+
+ sm 576
+ col 320
+
+ =========================================
+
+ header-----
+
+menu    xxl/xl/lg       md          sm/Color
+            22          22              18
+
+Slider
+
+        xxl/xl/lg       md          sm/col
+    
